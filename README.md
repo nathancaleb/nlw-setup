@@ -30,6 +30,14 @@ Aplicação desenvolvida dom intuito de monitorar hábitos diarios do usuário.
 
 ---
 
+**<h2>LAYOUT</h2>**
+
+- Layout original onde o projeto deve ser baseado, desenvolvido no Figma pela Rocketseat [AQUI](<https://www.figma.com/file/XVbYUtJTGgp6o0tdBK3aQl/Habits-(e)-(Community)?node-id=301%3A130&t=khvHSOUludqM7Lgw-0>).
+
+_Necessario conta no FIGMA_
+
+---
+
 **<h2>TECNOLOGIAS</h2>**
 
 <img src="./.github/html5_svg.svg"> HTML
