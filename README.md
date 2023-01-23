@@ -1,6 +1,6 @@
 **<h1 align="center">NLW SETUP - HABITS </h1>**
 
-![preview](./.github/preview.png)
+![preview](./.github/preview.jpg)
 
 ---
 
