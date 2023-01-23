@@ -4,19 +4,19 @@
 
 ---
 
-## - SOBRE
+**<h2>SOBRE</h2>**
 
 Projeto construído para Trilha Explorer do evento Next Level Week (NLW) - Setup da Rocketseat.
 
-> Instrutor
+> _INSTRUTOR_
 
 [Mayk Brito](https://maykbrito.dev/)
 
-> Escopo
+> _ESCOPO_
 
 Aplicação desenvolvida dom intuito de monitorar hábitos diarios do usuário.
 
-> Detalhado
+> _DETALHES_
 
 - A aplicação possui o logo da aplicação e um botão de inclusão no cabeçalho da página.
 
@@ -30,21 +30,32 @@ Aplicação desenvolvida dom intuito de monitorar hábitos diarios do usuário.
 
 ---
 
-## - TECNOLOGIAS
+**<h2>TECNOLOGIAS</h2>**
 
-- HTML
-- CSS
-- JavaScript
-- Git e Github
+<img src="./.github/html5_svg.svg" class="logo"> HTML
+
+<img src="./.github/css_svg.svg" class="logo"> CSS
+
+<img src="./.github/js_svg.svg" class="logo"> JavaScript
+
+<img src="./.github/git_svg.svg" class="logo"> Git
+
+<img src="./.github/github_svg.svg" class="logo"> Github
 
 ---
 
-<!-- ## - PROJETO
+**<h2>PROJETO</h2>**
 
-[Clique aqui para acessar o projeto;](https://nathancaleb.github.io/nlw-setup-explorer/)
+[Clique aqui para acessar o projeto;](https://nathancaleb.github.io/nlw-setup/)
 
---- -->
+---
 
-## - CONTATO
+**<h2>CONTATO</h2>**
 
 E-mail: nathancalebss@gmail.com
+
+<style>
+  .logo{
+    widht: 30px;
+    height: 30px;
+  }
