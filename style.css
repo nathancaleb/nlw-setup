@@ -18,6 +18,7 @@ header {
 
   position: fixed;
   width: 100%;
+  background-color: #09090a;
 }
 
 button {
@@ -90,7 +91,7 @@ input {
 }
 
 input:checked {
-  background-color: #8b5cf6;  
+  background-color: #8b5cf6;
   border: 2px solid #a78bfa;
 }
 
