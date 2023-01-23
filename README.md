@@ -32,15 +32,15 @@ Aplicação desenvolvida dom intuito de monitorar hábitos diarios do usuário.
 
 **<h2>TECNOLOGIAS</h2>**
 
-<img src="./.github/html5_svg.svg" class="logo"> HTML
+<img src="./.github/html5_svg.svg"> HTML
 
-<img src="./.github/css_svg.svg" class="logo"> CSS
+<img src="./.github/css_svg.svg"> CSS
 
-<img src="./.github/js_svg.svg" class="logo"> JavaScript
+<img src="./.github/js_svg.svg"> JavaScript
 
-<img src="./.github/git_svg.svg" class="logo"> Git
+<img src="./.github/git_svg.svg"> Git
 
-<img src="./.github/github_svg.svg" class="logo"> Github
+<img src="./.github/github_svg.svg"> Github
 
 ---
 
@@ -53,9 +53,3 @@ Aplicação desenvolvida dom intuito de monitorar hábitos diarios do usuário.
 **<h2>CONTATO</h2>**
 
 E-mail: nathancalebss@gmail.com
-
-<style>
-  .logo{
-    widht: 30px;
-    height: 30px;
-  }
